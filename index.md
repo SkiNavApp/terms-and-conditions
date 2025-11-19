@@ -55,3 +55,74 @@ Continued use of the App constitutes acceptance of the updated Terms.
 
 ## 12. Contact
 Questions about these Terms may be directed through the SkiNav GitHub repository or the App Store listing.
+
+
+# SkiNav – Privacy Policy
+
+_Last updated: [today’s date]_
+
+## 1. Information We Collect
+SkiNav collects two types of information:
+
+### **Location Data**
+Collected only while actively using navigation features.  
+Processed locally on your device and **not stored or transmitted** by the developer.
+
+### **Anonymous Analytics (Firebase Analytics)**
+SkiNav uses Firebase Analytics to collect anonymous usage and performance data, such as:
+- feature usage
+- app interaction patterns
+- session duration
+- device type and OS version
+- crash and stability information
+
+No personally identifiable information is collected.
+
+---
+
+## 2. How We Use Your Information
+We use:
+- **Location data** to provide navigation, route planning, and map positioning  
+- **Anonymous analytics** to understand how the app is used and improve stability, usability, and performance  
+
+We do not use your data for advertising or tracking across apps.
+
+---
+
+## 3. Data Storage
+- Resort map data and user preferences are stored **locally on your device**  
+- Location data is processed in real time and not stored  
+- Firebase stores **anonymous analytics** on secure Google servers  
+- SkiNav does **not** operate external servers and does **not** store personal user data  
+
+---
+
+## 4. Third-Party Services
+SkiNav uses:
+
+### **Firebase Analytics (Google)**
+Used solely for anonymous usage statistics and performance insights.  
+Firebase may collect:
+- device model  
+- OS version  
+- app version  
+- interaction patterns  
+- crash/diagnostic information  
+
+Firebase does **not** receive personal information such as name, email, or identifiers.
+
+---
+
+## 5. Your Rights & Controls
+You may:
+- Disable location access at any time in iOS Settings  
+- Disable analytics at the OS level (Settings → Privacy & Security → Analytics & Improvements)  
+- Delete the app to remove all locally stored data  
+
+SkiNav does not retain any data after uninstalling the app.
+
+---
+
+## 6. Contact
+For privacy concerns or questions, you may contact the developer via the SkiNav GitHub repository or through the App Store listing.
+
