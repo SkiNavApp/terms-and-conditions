@@ -1,59 +1,57 @@
-Terms & Conditions
+# SkiNav – Terms & Conditions
 
-Last updated: 14.11.2025
+## 1. Agreement to Terms
+By downloading, accessing, or using SkiNav (“the App”), you agree to be bound by these Terms & Conditions.  
+If you do not agree, do not use the App.
 
-Welcome to our Terms & Conditions page. Please read these terms carefully before using our services.
+## 2. Description of the App
+SkiNav provides recreational ski navigation, run selection, lift guidance, and route planning based on available map data.  
+The App does not provide real-time snow conditions, weather information, or safety-certified navigation.
 
-1. Acceptance of Terms
+## 3. Not a Safety-Certified Navigation System
+SkiNav is not a replacement for official resort signage, certified navigation equipment, or avalanche guidance.  
+Ski conditions, closures, hazards, and posted signs always take precedence over any route provided within the App.
 
-By accessing or using our website or services, you agree to be bound by these Terms & Conditions. If you do not agree to these terms, you must stop using the site.
+## 4. User Responsibilities
+Users agree to:
+- Follow all resort rules and signage  
+- Maintain awareness of surroundings  
+- Ski within their abilities  
+- Not rely solely on the App for safety-critical decisions  
 
-2. Changes to Terms
+Users are fully responsible for their own skiing and actions.
 
-We may update these Terms & Conditions from time to time. Changes will be posted on this page with an updated revision date.
+## 5. Location Data
+The App may request access to device location to improve route accuracy.  
+Location data is processed on the device and is not transmitted or stored by the developer.
 
-3. Use of the Website
+## 6. No Account Required
+SkiNav does not require account creation and does not collect personal identifying information.
 
-You agree to use the website only for lawful purposes and in a way that does not infringe the rights of others or restrict their use of the site.
+## 7. Data Collection & Privacy
+SkiNav does not collect personal data.  
+Anonymous crash logs or diagnostics may be collected by Apple to improve app stability.  
+See the SkiNav Privacy Policy for more details.
 
-Prohibited behavior includes:
+## 8. Third-Party Data & Accuracy
+SkiNav uses map and ski-area data from third-party or community sources.  
+The developer does not guarantee accuracy, completeness, or up-to-date trail or lift information.
 
-Harassment or causing distress to others
+## 9. Limitation of Liability
+To the maximum extent permitted by law, the developer is not liable for any injury, accident, or loss arising from use of the App, including:
+- skiing accidents  
+- incorrect navigation  
+- reliance on map data  
+- device issues while skiing  
 
-Uploading offensive or harmful content
+Use of SkiNav is entirely at your own risk.
 
-Unauthorized access or disruption of the site
+## 10. Changes to the App
+The App's content, features, or functionality may change at any time without notice.
 
-4. Intellectual Property
+## 11. Updates to Terms
+These Terms may be updated periodically.  
+Continued use of the App constitutes acceptance of the updated Terms.
 
-All content on this website, including text, graphics, logos, and design elements, is owned by us or licensed to us unless otherwise stated. You may not reproduce, distribute, or republish any content without prior written permission.
-
-5. Limitation of Liability
-
-We provide this website on an “as is” and “as available” basis. We make no warranties regarding the accuracy or reliability of the content.
-
-To the fullest extent permitted by law, we are not liable for:
-
-Losses resulting from use of the website
-
-Technical issues or service interruptions
-
-Any damages arising from reliance on content provided
-
-6. External Links
-
-Our website may contain links to third-party sites. We are not responsible for the content, policies, or practices of any third-party websites.
-
-7. Privacy
-
-We may collect and process personal information as described in our Privacy Policy. By using our site, you consent to this processing.
-
-8. Governing Law
-
-These Terms & Conditions are governed by the laws of {{ insert country/region }}. Any disputes will be subject to the exclusive jurisdiction of the courts in {{ region }}.
-
-9. Contact Us
-
-If you have any questions about these Terms & Conditions, you can contact us at:
-
-Email: SkiNavApp@outlook.com
+## 12. Contact
+Questions about these Terms may be directed through the SkiNav GitHub repository or the App Store listing.
