@@ -1,6 +1,6 @@
 # SkiNav – Terms & Conditions
 
-_Last updated: 19/11/2025
+Last updated: 19/11/2025
 
 ## 1. Agreement to Terms
 By downloading, accessing, or using SkiNav (“the App”), you agree to be bound by these Terms & Conditions.  
@@ -85,7 +85,7 @@ Questions about these Terms may be directed through the App Store listing.
 
 # SkiNav – Privacy Policy
 
-_Last updated: 19/11/2025
+Last updated: 19/11/2025
 
 ## 1. Information We Collect
 SkiNav collects two types of information:
