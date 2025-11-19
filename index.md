@@ -10,7 +10,7 @@ The App does not provide real-time snow conditions, weather information, or safe
 
 ## 3. Not a Safety-Certified Navigation System
 SkiNav is not a replacement for official resort signage, certified navigation equipment, or avalanche guidance.  
-Ski conditions, closures, hazards, and posted signs always take precedence over any route provided within the App.
+Local ski conditions, closures, hazards, and posted signs always take precedence over any route provided within the App.
 
 ## 4. User Responsibilities
 Users agree to:
@@ -38,7 +38,7 @@ SkiNav uses map and ski-area data from third-party or community sources.
 The developer does not guarantee accuracy, completeness, or up-to-date trail or lift information.
 
 ## 9. Limitation of Liability
-To the maximum extent permitted by law, the developer is not liable for any injury, accident, or loss arising from use of the App, including:
+To the maximum extent permitted by law, the developer is not liable for any injury, accident, or loss arising from use of the App, including but not limited to:
 - skiing accidents  
 - incorrect navigation  
 - reliance on map data  
