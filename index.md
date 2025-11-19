@@ -5,6 +5,7 @@ By downloading, accessing, or using SkiNav (“the App”), you agree to be boun
 If you do not agree, do not use the App.
 
 ## 2. Description of the App
+---
 SkiNav provides recreational ski navigation, run selection, lift guidance, and route planning based on available map data.  
 The App does not provide real-time snow conditions, weather information, or safety-certified navigation.
 
@@ -54,7 +55,7 @@ These Terms may be updated periodically.
 Continued use of the App constitutes acceptance of the updated Terms.
 
 ## 12. Contact
-Questions about these Terms may be directed through the SkiNav GitHub repository or the App Store listing.
+Questions about these Terms may be directed through the App Store listing.
 
 
 # SkiNav – Privacy Policy
