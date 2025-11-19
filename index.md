@@ -1,5 +1,7 @@
 # SkiNav – Terms & Conditions
 
+_Last updated: 19/11/2025
+
 ## 1. Agreement to Terms
 By downloading, accessing, or using SkiNav (“the App”), you agree to be bound by these Terms & Conditions.  
 If you do not agree, do not use the App.
@@ -9,6 +11,8 @@ If you do not agree, do not use the App.
 ## 2. Description of the App
 SkiNav provides recreational ski navigation, run selection, lift guidance, and route planning based on available map data.  
 The App does not provide real-time snow conditions, weather information, or safety-certified navigation.
+
+---
 
 ## 3. Not a Safety-Certified Navigation System
 SkiNav is not a replacement for official resort signage, certified navigation equipment, or avalanche guidance.  
@@ -81,7 +85,7 @@ Questions about these Terms may be directed through the App Store listing.
 
 # SkiNav – Privacy Policy
 
-_Last updated: [today’s date]_
+_Last updated: 19/11/2025
 
 ## 1. Information We Collect
 SkiNav collects two types of information:
@@ -146,5 +150,5 @@ SkiNav does not retain any data after uninstalling the app.
 ---
 
 ## 6. Contact
-For privacy concerns or questions, you may contact the developer via the SkiNav GitHub repository or through the App Store listing.
+For privacy concerns or questions, you may contact the developer through the App Store listing.
 
