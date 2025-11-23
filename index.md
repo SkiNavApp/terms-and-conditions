@@ -1,6 +1,6 @@
 # SkiNav – Terms & Conditions
 
-Last updated: 19/11/2025
+Last updated: 23/11/2025
 
 ## 1. Agreement to Terms
 By downloading, accessing, or using SkiNav (“the App”), you agree to be bound by these Terms & Conditions.  
@@ -85,7 +85,7 @@ Questions about these Terms may be directed through the App Store listing.
 
 # SkiNav – Privacy Policy
 
-Last updated: 19/11/2025
+Last updated: 23/11/2025
 
 ## 1. Information We Collect
 SkiNav collects two types of information:
@@ -101,6 +101,7 @@ SkiNav uses Firebase Analytics to collect anonymous usage and performance data, 
 - session duration
 - device type and OS version
 - crash and stability information
+- Your IP address is used to derive the IP country, but are never logged by Google and are immediately deleted upon collection.
 
 No personally identifiable information is collected.
 
@@ -108,8 +109,8 @@ No personally identifiable information is collected.
 
 ## 2. How We Use Your Information
 We use:
-- **Location data** to provide navigation, route planning, and map positioning  
-- **Anonymous analytics** to understand how the app is used and improve stability, usability, and performance  
+- **Location data** to provide navigation, route planning, and map positioning in line with GDPR Art. 6(1)(b)
+- **Anonymous analytics** to understand how the app is used and improve stability, usability, and performance in line with GDPR Art. 6(1)(a)
 
 We do not use your data for advertising or tracking across apps.
 
@@ -117,7 +118,8 @@ We do not use your data for advertising or tracking across apps.
 
 ## 3. Data Storage
 - Resort map data and user preferences are stored **locally on your device**  
-- Location data is processed in real time and not stored  
+- Location data is processed in real time and immediately discarded after use
+- Crash logs collected by Apple are stored according to Apple’s retention policies; see Apple’s privacy documentation for details 
 - Firebase stores **anonymous analytics** on secure Google servers  
 - SkiNav does **not** operate external servers and does **not** store personal user data  
 
@@ -133,9 +135,16 @@ Firebase may collect:
 - OS version  
 - app version  
 - interaction patterns  
-- crash/diagnostic information  
+- crash/diagnostic information
+- IP country (after deriving the IP country Google immediately delted your IP address)
 
 Firebase does **not** receive personal information such as name, email, or identifiers.
+
+Firebase Analytics (Google) acts as a data processor on our behalf. Processing is governed by Google’s Data Processing Agreement and the use of EU Standard Contractual Clauses (SCCs) to safeguard international data transfers outside the UK/EU. Google might processed data on servers located outside the UK or EU (including the United States). These transfers rely on GDPR-approved safeguards.
+
+### 4.1 Children’s Data
+SkiNav is not intended for children under 16.
+We do not knowingly collect or process personal data from children. If you believe a child has provided data, please contact us so we can delete it.
 
 ---
 
@@ -145,7 +154,21 @@ You may:
 - Disable analytics at the OS level (Settings → Privacy & Security → Analytics & Improvements)  
 - Delete the app to remove all locally stored data  
 
-SkiNav does not retain any data after uninstalling the app.
+User-level and event-level analytics data will automatically be deleted after 14 months of inactivity or uninstalling the app.
+
+In addition to the controls listed, users in the UK and EU have the following rights under GDPR:
+- Right of access to your personal data
+- Right to rectification of inaccurate data
+- Right to erasure (“right to be forgotten”)
+- Right to restrict processing
+- Right to object to processing (including analytics based on legitimate interest)
+- Right to data portability where applicable
+- Right to withdraw consent at any time
+- Right to lodge a complaint with a supervisory authority:
+  - UK users: Information Commissioner’s Office (ICO)
+  - EU users: Your local Data Protection Authority
+
+Because SkiNav does not collect identifiable personal data, these rights may have limited practical applicability, but we will honour all lawful requests.
 
 ---
 
