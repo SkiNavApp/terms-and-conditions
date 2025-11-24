@@ -1,6 +1,6 @@
 # SkiNav – Terms & Conditions
 
-Last updated: 23/11/2025
+Last updated: 24/11/2025
 
 ## 1. Agreement to Terms
 By downloading, accessing, or using SkiNav (“the App”), you agree to be bound by these Terms & Conditions.  
@@ -51,7 +51,9 @@ See the SkiNav Privacy Policy for more details.
 
 ## 8. Third-Party Data & Accuracy
 SkiNav uses map and ski-area data from third-party or community sources.  
-The developer does not guarantee accuracy, completeness, or up-to-date trail or lift information.
+The developer does not guarantee that any information displayed in the app, including but not limited to maps, trail status, lift operations, or estimated skiing durations, is accurate, complete, or up to date.
+All such information, including time estimates, is provided for general guidance only and may vary due to user skill level, conditions, operational changes, or data inaccuracies.
+Accordingly, the developer cannot be held liable for any errors, omissions, delays, or inaccuracies in the displayed information, nor for any consequences arising from reliance on it.
 
 ---
 
@@ -59,7 +61,7 @@ The developer does not guarantee accuracy, completeness, or up-to-date trail or 
 To the maximum extent permitted by law, the developer is not liable for any injury, accident, or loss arising from use of the App, including but not limited to:
 - skiing accidents  
 - incorrect navigation  
-- reliance on map data  
+- reliance on map, trail, lift, or duration data
 - device issues while skiing  
 
 Use of SkiNav is entirely at your own risk.
@@ -85,7 +87,7 @@ Questions about these Terms may be directed through the App Store listing.
 
 # SkiNav – Privacy Policy
 
-Last updated: 23/11/2025
+Last updated: 24/11/2025
 
 ## 1. Information We Collect
 SkiNav collects two types of information:
@@ -94,16 +96,19 @@ SkiNav collects two types of information:
 Collected only while actively using navigation features.  
 Processed locally on your device and **not stored or transmitted** by the developer.
 
-### **Anonymous Analytics (Firebase Analytics)**
-SkiNav uses Firebase Analytics to collect anonymous usage and performance data, such as:
+### **Anonymous Analytics (Firebase Analytics / Google Analytics 4)**
+SkiNav uses Firebase Analytics (Google Analytics 4) to collect anonymous usage and performance data, such as:
 - feature usage
 - app interaction patterns
 - session duration
 - device type and OS version
 - crash and stability information
-- Your IP address is used to derive the IP country, but are never logged by Google and are immediately deleted upon collection.
+- coarse user location (city and country) derived from the user's IP address
 
-No personally identifiable information is collected.
+#### IP-Address Handling (Google Analytics 4)
+Google Analytics 4 does not log or store full IP addresses. For users located in the EU, IP data is processed solely to generate coarse location information (such as city and country) on servers within the EU. The IP address is then immediately discarded before any data is sent to other Analytics processing servers, which may be located outside the EU, including in the United States. At no point are full IP addresses retained, stored, or accessible to the developer.
+
+No personally identifiable information is stored or accessible to the developer.
 
 ---
 
@@ -136,11 +141,11 @@ Firebase may collect:
 - app version  
 - interaction patterns  
 - crash/diagnostic information
-- IP country (after deriving the IP country Google immediately delted your IP address)
+- coarse geo-location derived from IP address (the full IP address is not logged or stored)
 
 Firebase does **not** receive personal information such as name, email, or identifiers.
 
-Firebase Analytics (Google) acts as a data processor on our behalf. Processing is governed by Google’s Data Processing Agreement and the use of EU Standard Contractual Clauses (SCCs) to safeguard international data transfers outside the UK/EU. Google might processed data on servers located outside the UK or EU (including the United States). These transfers rely on GDPR-approved safeguards.
+Firebase Analytics acts as a data processor on our behalf. Processing is governed by Google’s Data Processing Agreement and the use of EU Standard Contractual Clauses (SCCs) to safeguard international data transfers outside the UK/EU. Google may process data on servers located outside the UK or EU (including the United States). These transfers rely on GDPR-approved safeguards.
 
 ### 4.1 Children’s Data
 SkiNav is not intended for children under 16.
@@ -148,7 +153,14 @@ We do not knowingly collect or process personal data from children. If you belie
 
 ---
 
-## 5. Your Rights & Controls
+## 5. EU Representative (Article 27 GDPR)
+SkiNav includes information about ski resorts located in EU countries; however, we do not target or identify individual users in the EU, do not collect personal data, and only process limited, low-risk information such as anonymous usage analytics. Based on the nature, scope, context, and low volume of this processing, we currently consider that we meet the exemption criteria under Article 27 of the EU GDPR and are not required to appoint an EU representative.
+
+We will continue to monitor our processing activities and user base, and we will appoint an EU representative if our circumstances change in a way that makes this necessary.
+
+---
+
+## 6. Your Rights & Controls
 You may:
 - Disable location access at any time in iOS Settings  
 - Disable analytics at the OS level (Settings → Privacy & Security → Analytics & Improvements)  
@@ -156,7 +168,7 @@ You may:
 
 User-level and event-level analytics data will automatically be deleted after 14 months of inactivity or uninstalling the app.
 
-In addition to the controls listed, users in the UK and EU have the following rights under GDPR:
+In addition, users in the UK and EU have the following rights under GDPR:
 - Right of access to your personal data
 - Right to rectification of inaccurate data
 - Right to erasure (“right to be forgotten”)
